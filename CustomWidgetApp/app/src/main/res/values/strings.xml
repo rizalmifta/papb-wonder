@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CustomWidgetApp</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="date_update_format">%1$s, %2$s</string>
+    <string name="date_count_format">%1$d</string>
+</resources>

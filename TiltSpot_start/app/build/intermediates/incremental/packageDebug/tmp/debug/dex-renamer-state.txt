@@ -1,0 +1,4 @@
+#Tue Mar 10 07:40:56 ICT 2020
+base.0=E\:\\Kuliah\\Semester 4\\PAPB 2\\Latihan\\TiltSpot_start\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

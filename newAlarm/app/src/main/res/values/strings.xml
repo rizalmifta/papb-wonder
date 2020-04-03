@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AlarmApp</string>
+    <string name="alarm_on_toast">alarm on</string>
+    <string name="alarm_off_toast">alarm off</string>
+</resources>
